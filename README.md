@@ -1,9 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CRA GSAP Example
 
-## Available Scripts
+## Libraries used
 
-In the project directory, you can run:
+- CRA
+- styled-components
+- GSAP
+- Axios
 
-### `yarn start`
+## Todo
 
+- [ ] Better styling
 - [ X ] Shrink on mouse out
