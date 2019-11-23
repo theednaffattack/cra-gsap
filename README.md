@@ -10,4 +10,5 @@
 ## Todo
 
 - [ ] Better styling
-- [ X ] Shrink on mouse out
+- [x] Shrink on mouse out
+- [ ] Update mouseover to only include button
