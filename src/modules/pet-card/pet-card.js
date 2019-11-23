@@ -106,6 +106,7 @@ const PetCard = props => {
   return (
     <Card
       onMouseEnter={() => mouseAnimation.play()}
+      onMouseLeave={() => mouseAnimation.reverse()}
       className="dog-card "
       key={props.id}
       ref={element => {
